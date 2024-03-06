@@ -10,4 +10,6 @@ Clase introductoria sobre la utilización de Notebooks como Colab y programació
 Clase práctica de acompañamiento a la clase teórica que repasa los conceptos vistos en la materia correlativa a PSIB llamada "Señales y Sistemas". En esta clase se repasan los siguientes temas:
 
 * Librerías a utilizar (numpy, matplotlib y scipy)
-* 
+* Ejemplo cómo generar una señal sintética (de senos con cierta frecuencia de muestreo)
+* Ejemplo de Transformada de Fourier de señal
+* Ejemplo de filtrar señal
