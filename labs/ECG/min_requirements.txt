@@ -1,0 +1,5 @@
+matplotlib==3.9.2
+scipy==1.13.1
+pyserial==3.5
+PeakUtils==1.3.5
+xlwt==1.3.0
